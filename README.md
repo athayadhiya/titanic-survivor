@@ -1,6 +1,6 @@
 # titanic-survivor
 
-this is my very-first machine learning project using Python. 
+This is my very-first machine learning project using Python. 
 I learned about data understanding, data cleaning, Exploratory Data Analysis (EDA) and machine learning through this.
 
 My goal was to predict whether the titanic passangers are going to survive or not.
